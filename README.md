@@ -14,13 +14,13 @@ g++ final.cpp -o final -lopengl32 -lglew32 -lfreeglut -lglu32
 ## Instructions for Camera moments
 
 X - Decrease x value
-x - Increase x value
+ | x - Increase x value
 
 Y - Decrease y value
-y - Increase y value
+ | y - Increase y value
 
 Z - Decrease z value
-z - Increase z value
+ | z - Increase z value
 
 ## Animations
 
